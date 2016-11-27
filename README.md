@@ -2,7 +2,7 @@
 
 [![Build](https://travis-ci.org/atende/infra-volume-backup.svg?branch=dev)](https://travis-ci.org/atende/infra-volume-backup)
 
-[![](https://images.microbadger.com/badges/image/atende/infra-volume-backup.svg)](https://microbadger.com/images/atende/infra-volume-backup "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/atende/volume-backup.svg)](https://microbadger.com/images/atende/volume-backup "Get your own image badge on microbadger.com")
 
 Docker volume backup of files to S3 and other cloud storages
 
