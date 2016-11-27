@@ -73,6 +73,8 @@ Rclone has a command line that helps you in the creation of the file to all its 
 ## Restore
 To restore your data simply set the `RESTORE` environment variable to `true` - this will restore the latest backup from your storage to your volume.
 
+# How it works
+
 The **BUCKET\_NAME** is used to create the rcopy command for example a BUCKET\_NAME=folder and BACKUP\_NAME=temp will create the command:
 
     rclone copy --no-traverse temp.2016-11-27-10-50.tar.gz backup:folder
