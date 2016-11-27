@@ -1,5 +1,7 @@
 # Infra Volume Backup
 
+[![Build](https://travis-ci.org/atende/infra-volume-backup.svg?branch=dev)](https://travis-ci.org/atende/infra-volume-backup)
+
 Docker volume backup of files to S3 and other cloud storages
 
 Base on https://github.com/tutumcloud/dockup but with some improviments:
